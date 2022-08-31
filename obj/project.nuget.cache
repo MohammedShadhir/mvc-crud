@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jAPkf6C6pKDUv/8Jpt5qbOrkrQSTL27pcSjVOKx32c6puaByt+3JGhyX2nQcDkNffmdAm7VTguGVX85BAxc6Dg==",
+  "dgSpecHash": "rYYy6Fq+Xly88qUNr++zs/s0sXXUQ7kYn5CB6W0zpa4AeLQ9xsqSzUPKFklASKKacTQmR+Wk7x3bRaPoVpNQ+Q==",
   "success": true,
-  "projectFilePath": "F:\\practic mvc\\Test1\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

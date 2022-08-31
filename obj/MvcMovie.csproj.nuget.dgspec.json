@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\practic mvc\\Test1\\MvcMovie\\MvcMovie.csproj": {}
+    "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\MvcMovie.csproj": {}
   },
   "projects": {
-    "F:\\practic mvc\\Test1\\MvcMovie\\MvcMovie.csproj": {
+    "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\practic mvc\\Test1\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "F:\\practic mvc\\Test1\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\practic mvc\\Test1\\MvcMovie\\obj\\",
+        "outputPath": "F:\\practic mvc\\Test1\\Movie\\ASP.NET-MVC-Crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
